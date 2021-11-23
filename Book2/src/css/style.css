@@ -1,0 +1,147 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}
+
+.main-image {
+    width: 50%;
+    margin-top: 160px;
+    margin-left: 100px;
+}
+
+.main-text {
+    color: #000000;
+    font-family: Tahoma;
+    width: 50%;
+    margin-top: 136px;
+}
+
+.title {
+    width: 465px;
+    height: 37px;
+    margin-bottom: 23px;
+
+}
+
+.author {
+    margin-bottom: 41px;
+    margin-top: 23px;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.desc {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.price {
+    font-size: 48px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+
+.buttons {
+   margin-top: 77px;
+   margin-bottom: 230px; 
+}
+
+.blue {
+    width: 175px;
+    height: 67px;
+    border-radius: 5px;
+    border: 1px solid #4572d7;
+    background-color: #4572d7;
+    margin-top: 55px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 27px 66px;
+}
+
+.white{
+    width: 287px;
+    height: 67px;
+    border-radius: 5px;
+    border: 2px solid #4572d7;
+    width: 1366px;
+    height: 2070px;
+    text-decoration: none;
+    color: #4572d7;
+    font-family: Tahoma;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 27px 74px;
+
+}
+
+.container1 {
+    padding-bottom: 100px;
+    background-color: #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.middle-headline {
+    display: block;
+    color: #333333;
+    font-family: Tahoma;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 88px;
+    margin-bottom: 90px;
+    text-align: center;
+}
+
+
+.middle-item span {    
+    display: block;
+    line-height: 22px;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 25px;
+}
+
+.middle-wrap {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 111px;
+}
+
+.container2 {
+    background-color: #ffffff;
+}
+
+.people {
+    background-color: #ffffff;
+    margin-top: 88px;
+    padding-bottom: 111px;
+}
+
+.people-headline {
+    color: #333333;
+    font-family: Tahoma;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 69px;
+    display: block;
+    text-align: center;
+}
+
+.people-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 113px;
+}
+
+.people-block {
+    width: 25%;
+    object-fit: cover;
+    height: 100%;
+    padding-top: 40px;
+}
